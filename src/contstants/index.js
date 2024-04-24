@@ -1,0 +1,1 @@
+export const logo = '/src/contstants/BEKMUROD LOGO.png'
